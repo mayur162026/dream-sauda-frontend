@@ -1,0 +1,41 @@
+.wallet {
+    max-width: 700px;
+    margin: auto;
+    padding: 24px;
+    background: #fefefe;
+    border-radius: 12px;
+  }
+  
+  .wallet-balance {
+    font-size: 22px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .wallet-add input {
+    padding: 8px;
+    width: 150px;
+    margin-right: 10px;
+  }
+  
+  .wallet-add button {
+    padding: 8px 14px;
+    background: #28a745;
+    color: white;
+    border: none;
+    border-radius: 6px;
+  }
+  
+  .wallet-history table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  .wallet-history th,
+  .wallet-history td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  

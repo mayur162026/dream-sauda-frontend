@@ -1,0 +1,70 @@
+.profile {
+    background: #fff;
+    padding: 24px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .profile-section label {
+    font-weight: 500;
+    display: block;
+    margin-top: 12px;
+    color: #555;
+  }
+  
+  .profile-section p, .profile-section input, .profile-section select {
+    margin-top: 4px;
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: 16px;
+  }
+  
+  input, select {
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+  
+  .edit-btn, .save-btn, .logout-btn {
+    margin-top: 20px;
+    padding: 10px 16px;
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .edit-btn {
+    background: #007bff;
+    color: white;
+  }
+  
+  .save-btn {
+    background: #28a745;
+    color: white;
+  }
+  
+  .logout-btn {
+    background: #dc3545;
+    color: white;
+    display: block;
+    width: 100%;
+    margin-top: 40px;
+  }
+  
+  .profile-stats {
+    margin-top: 40px;
+    background: #f9f9f9;
+    padding: 16px;
+    border-radius: 8px;
+  }
+  
+  .profile-stats h4 {
+    margin-bottom: 20px;
+  }
+  
+  .stat-box {
+    margin-bottom: 10px;
+  }
+  

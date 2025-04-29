@@ -1,0 +1,44 @@
+.my-teams-box {
+    background: #fff8dc;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .team-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .team-card {
+    background-color: #f1f1f1;
+    padding: 16px;
+    border-radius: 10px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  }
+  
+  .team-card h4 {
+    margin-bottom: 8px;
+  }
+  
+  .team-card button {
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 6px 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .locked-text {
+    color: red;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  .join-btn {
+    background-color: #007bff;
+    color: white;
+  }
+  
